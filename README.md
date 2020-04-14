@@ -12,5 +12,5 @@ __Data:__ 11/04/2020
 
 ### Contato:
 
-__email:__ _thallyta180136319@gmail.com
-__linkedin:__ _https://www.linkedin.com/in/thallyta-castro-93b950187/
+__email:__ thallyta180136319@gmail.com
+__linkedin:__ https://www.linkedin.com/in/thallyta-castro-93b950187/
