@@ -6,12 +6,10 @@
 ## Meu score em cada desafio:
 
 __Primeiro módulo__: 100%
-
 __Data:__ 11/04/2020
 
 
 __Segundo módulo__: 100%
-
 __Data:__ 15/04/2020
 
 
