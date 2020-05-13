@@ -12,7 +12,14 @@ __Data:__ 11/04/2020
 __Segundo módulo__: 100%
 __Data:__ 15/04/2020
 
+__Terceiro módulo__: 100%
+__Data:__ 22/04/2020
 
+__Quarto módulo__: 100%
+__Data:__ 29/04/2020
+
+__Quinto módulo__: 100%
+__Data:__ 06/05/2020
 
 ### Contato:
 
