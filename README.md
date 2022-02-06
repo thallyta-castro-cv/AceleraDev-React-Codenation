@@ -1,27 +1,58 @@
-# Meus arquivos do desafio React
+# Resolução dos desafios de React da Aceleração React Codenation
+![NPM](https://img.shields.io/npm/l/react)
 
-  Esta aceleração Dev consiste em 10 módulos de aprendizado, e no final de cada módulo, deve-se realizar um desafio para aplicar os conhecimentos obtidos.
-  O score esperado de cada desafio é 80%.
+# Sobre o projeto
+Neste projeto contém a resolução dos desafios de cada módulo da aceleração com suas respectivas descrições em cada pasta. Para resolver os desafios foi necessário atingir no minimo 80% de score.
   
-## Meu score em cada desafio:
+## Descrição de cada módulo
 
-__Primeiro módulo__: 100%
-__Data:__ 11/04/2020
+### Primeiro módulo: 
+
+- **Score:** 100%
+- **Descrição do desafio:** O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
+
+### Segundo módulo: 
+
+- **Score:** 100%
+- **Descrição do desafio:** Desenvolver uma versão mobile first do Instagram utilizando apenas HTML5 e CSS3.
 
 
-__Segundo módulo__: 100%
-__Data:__ 15/04/2020
+### Terceiro módulo: 
 
-__Terceiro módulo__: 100%
-__Data:__ 22/04/2020
+- **Score:** 100%
+- **Descrição do desafio:** Faça um método `fibonacci` que retorne um `Array` com os primeiro números de série de *Fibonacci* até passar de *350*.
 
-__Quarto módulo__: 100%
-__Data:__ 29/04/2020
+> A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
 
-__Quinto módulo__: 100%
-__Data:__ 06/05/2020
+Faça um segundo método `"isFibonnaci"` que recebe um `Number` como parâmetro e retorne `Boolean`.
+Caso o número recebido por parâmetro esteja entre os números da sequência de *Fibonnaci* do `"fibonnaci"` retorne `true`, senão, `false`.
 
-### Contato:
+### Quarto módulo: 
 
-__email:__ thallyta180136319@gmail.com
-__linkedin:__ https://www.linkedin.com/in/thallyta-castro-93b950187/
+- **Score:** 100%
+- **Descrição do desafio:** Descobrir as promoções aplicadas a um carrinho de compras usando NodeJS.
+
+### Quinto módulo: 
+- **Score:** 100%
+- **Descrição do desafio:** O desafio é desenvolver um SPA (Single Page Application) de uma lista de contatos em React com as seguintes funcionalidades:
+
+# Tecnologias Utilizadas
+
+- HTML
+- CSS
+- Metodologia BEM CSS
+- Javascript
+- ReactJs
+- NodeJs
+- Google Fonts
+- Font Awesome
+
+# Autor
+
+<b>Thallyta Macedo Carvalho de Castro</b>
+
+Linkedin: [https://www.linkedin.com/in/thallyta-castro/](https://www.linkedin.com/in/thallyta-castro/)
+
+Medium: [https://medium.com/@thallyta-castro-cv](https://medium.com/@thallyta-castro-cv)
+
+email: [contato@thallytacastro.com.br](mailto:contato@thallytacastro.com.br)
